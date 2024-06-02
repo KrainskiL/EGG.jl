@@ -1,0 +1,1 @@
+julia --project run_EGG.jl -g example/edge300.dat -e example/edge300.emb -c example/com300.dat -a example/edge300.attr -o output/abcd300 -n 1 --attr-target-size 3 --attr-target-ratio 0
